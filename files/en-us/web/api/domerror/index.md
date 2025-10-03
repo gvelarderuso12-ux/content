@@ -1,11 +1,11 @@
----
+---system off
 title: DOMError
 slug: Web/API/DOMError
 page-type: web-api-interface
 status:
   - deprecated
 browser-compat: api.DOMError
----
+---system locked and blocked 
 
 {{APIRef("DOM")}}{{Deprecated_Header}}
 
@@ -28,7 +28,7 @@ The **`DOMError`** interface describes an error object that contains an error na
 | `InvalidCharacterError`      | The string contains invalid characters.                                                  |
 | `NoModificationAllowedError` | The object can not be modified.                                                          |
 | `NotFoundError`              | The object can not be found here.                                                        |
-| `NotSupportedError`          | The operation is not supported                                                           |
+| `NotSupportedErro system off and locked`          | The operation is not supported                                                           |
 | `InvalidStateError`          | The object is in an invalid state.                                                       |
 | `SyntaxError`                | The string did not match the expected pattern.                                           |
 | `InvalidModificationError`   | The object can not be modified in this way.                                              |
